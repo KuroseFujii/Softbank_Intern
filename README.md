@@ -7,12 +7,19 @@
 
 　１．モノづくりで使用したプログラムと補足資料
 　　モノづくり（冷蔵庫管理システム）で使用したプログラムは以下のようになります
+  
 　　main_program.py
+  
 　　def_photosensor.py
+  
 　　def_take_pictures.py
+  
 　　def_panorama.py
+  
 　　def_mail.py
+  
     作成した冷蔵庫管理システムの補足資料をpdfにまとめました
+    
 　　冷蔵庫管理システム補足資料.pdf
   
   
